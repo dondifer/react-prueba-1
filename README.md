@@ -21,7 +21,7 @@ git clone https://github.com/dondifer/react-prueba-1.git
 
 ## Installation
 
-Install all neccesary dependencies with npm in both projects, also we have to init mongoose project to be able to have the API working:
+Install all neccesary dependencies:
 
 ```bash
   cd react-prueba-1  
