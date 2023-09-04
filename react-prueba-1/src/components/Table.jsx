@@ -35,6 +35,9 @@ function Table() {
           title="Products Details"
           data={products}
           columns={columns}
+          options={{
+            filtering: true,
+          }}
         />
       </ThemeProvider>
     </>
